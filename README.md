@@ -20,7 +20,7 @@ Desarrollador fullstack en formación con experiencia en aplicaciones web, bases
 - Uso de Blender y Unity para gráficos 3D y jugabilidad 2D.
 - Gestión del repositorio con GitHub Desktop.
 
-### [Magikards](https://iojaness/Magikards)
+### [Magikards](https://github.com/iojaness/Magikards)
 *Un duego de estrategia que combina ajedrez y cartas*
 - Desarrollo de lógica de jugabilidad en 2D y 3D.
 - Uso de Unity para la jugabilidad.
