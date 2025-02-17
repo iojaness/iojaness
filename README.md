@@ -14,7 +14,7 @@ Desarrollador fullstack en formación con experiencia en aplicaciones web, bases
 
 ## 🌟 Proyectos Destacados
 
-### [Void Raiders](https://github.com/iojaness/Void-Raiders)
+### [Void Raiders](https://github.com/DRACO-ING/Void-Raiders)
 *Un Galaxy Shooter multijugador LAN cooperativo. Desarrollado como proyecto universitario*
 - Desarrollo de lógica de jugabilidad en 2D y 3D.
 - Uso de Blender y Unity para gráficos 3D y jugabilidad 2D.
