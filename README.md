@@ -21,7 +21,7 @@ Desarrollador fullstack en formación con experiencia en aplicaciones web, bases
 - Gestión del repositorio con GitHub Desktop.
 
 ### [Magikards](https://github.com/iojaness/Magikards)
-*Un duego de estrategia que combina ajedrez y cartas*
+*Un juego de estrategia que combina ajedrez y cartas*
 - Desarrollo de lógica de jugabilidad en 2D y 3D.
 - Uso de Unity para la jugabilidad.
 - Gestión del repositorio con GitHub Desktop.
