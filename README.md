@@ -26,6 +26,16 @@ Desarrollador fullstack en formación con experiencia en aplicaciones web, bases
 - Uso de Unity para la jugabilidad.
 - Gestión del repositorio con GitHub Desktop.
 
+### [Delta]{https://github.com/iojaness/ProyectoDelta}
+Un RPG 3D de acción totalmente personalizable
+
+- Desarrollo de sistemas de combate, magia, cocina dinámica y alquimia.
+- Sistema de exploración basado en parkour para moverse sin limitaciones.
+- Personalización profunda de habilidades, personajes y estilo de juego.
+- Mundo interactivo que reacciona a las decisiones del jugador.
+- Uso de Unity para la jugabilidad 3D.
+- Gestión del repositorio con GitHub Desktop.
+
 ---
 
 ## 🎯 Objetivos
