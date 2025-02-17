@@ -40,7 +40,7 @@ Actualmente, estoy interesado en:
 ## 📫 Contáctame
 
 - **Correo:** iojaness64@gmail.com
-- **LinkedIn:** [Enlace pendiente]
+- **LinkedIn:** (https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPiYOh%2Bv2QFCmX3CDwpJupg%3D%3D)
 
 ---
 
