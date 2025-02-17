@@ -22,7 +22,9 @@ Desarrollador fullstack en formación con experiencia en aplicaciones web, bases
 
 ### [Magikards](https://github.com/iojaness/Magikards)
 *Un juego de estrategia que combina ajedrez y cartas*
-- Desarrollo de lógica de jugabilidad en 2D y 3D.
+- Desarrollo de sistemas de combate y movimientos basados en el ajedrez.
+- Desarrollo de sistema de magia basado en yugioh y similares.
+- Desarrollo de sistema de arenas y copas basado en juegos de estrategia multijugador en linea.
 - Uso de Unity para la jugabilidad.
 - Gestión del repositorio con GitHub Desktop.
 
